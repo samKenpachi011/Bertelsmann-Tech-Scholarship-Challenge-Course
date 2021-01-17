@@ -11,7 +11,8 @@
 **CRISP-DM :** | Cross Industry Standard Process for Data Mining
 
 ### CRISP-DM FRAMEWORK
-[CRISP-DM]: https://github.com/samKenpachi011/Bertelsmann-Tech-Scholarship-Challenge-Course/blob/master/assets/crisp-dm-framework.jpeg
+
+<image src="crisp-dm-framework.png" />
 
 ## A brief summary of the stages in the framework
 **Business Issue Understanding :** Develop a mental model while answering questions such as :

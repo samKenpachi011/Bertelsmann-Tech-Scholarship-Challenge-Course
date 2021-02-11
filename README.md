@@ -16,14 +16,14 @@
 
 ## A brief summary of the stages in the framework
 **Business Issue Understanding :** Develop a mental model while answering questions such as :
-  * What decisions needs to be made
-  * What information is needed to info that decision
-  * What analysis will provide the information to inform that decision
+  * What decisions needs to be made.
+  * What information is needed to info that decision.
+  * What analysis will provide the information to inform that decision.
   
 **Data Understanding :** Start with data collection/identify data problems/subsets. Try and answer :
-  * What data is needed
-  * What data is available
-  * What are some of the important characteristics of the data
+  * What data is needed.
+  * What data is available.
+  * What are some of the important characteristics of the data.
   
 **Data Preparation :** Here you will go through the Gathering| Cleasing| Formatting| Blending| Sampling.
   * Gathering: Collecting data from multiple sources.
@@ -84,6 +84,23 @@ Having data leads to the rich data path and not having data leads to poor data p
   * If there are only two(2) possible outcomes for example YES/NO the variable is described as Binary.
   * When there are more than two(2) possible outcomes then its non-binary.
   
-    
-  
-  
+## Day 3: Lesson 3: Linear Regression
+
+**LINEAR REGRESSION :** It's a linear approach to modeling the relationship between a scalar response and one  or more explanatory variables. NOTE: for one explanatory variable it's called simple linear regression and for multiple explanatory variables it's called multiple linear regression. NOTE: A line is needed to see the relationship better + there is the predictor variable and a target variable that we have to take into consideration. The equation of the line helps predict future target variables => y = mx + b
+[More info on Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
+
+![linear regression](assets/linear_reg.png)
+
+=>Got familiar with using the SLOPE, INTERCEPT and CORREL functions in google sheets 
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
